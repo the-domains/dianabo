@@ -1,46 +1,5 @@
-typography_spectrum: 0.6166005502790581
-color:
-  brandStrength: 0.7116848036009671
-  lightness: 1
-  saturation: 0.11887280057350376
-  rhythmicContrast: 0.5916481977942778
-  brandColors:
-    - '#3A87BF'
-    - '#1B1C21'
-    - '#6B420E'
-    - '#B4B3AF'
-    - '#69B0DA'
-layout_spectrum: 0.2594592730113591
 name: DianaBo
-colors:
-  brandColors:
-    - 'hsl(0,0%,100%)'
-    - 'hsl(0,0%,80%)'
-    - 'hsl(0,0%,60%)'
-    - 'hsl(0,0%,30%)'
-    - 'hsl(0,0%,20%)'
-navigation:
-  - name: Prey Collection
-    id: fbc9fa22-a798-48ff-a8e9-bdfeed8d0948
-    type: content
-  - name: Next event...
-    id: 5d83fad3-79e2-460a-9d03-249a3f8609cd
-    type: content
-  - name: Tiny Collection
-    id: 79acb7fa-450d-4b8e-83c4-d5400554522a
-    type: content
-  - name: Pink Collection
-    id: 6a215af1-476b-4703-b030-8638dc4eebbd
-    type: content
-  - name: Past Exhibitions
-    id: 054f8992-fff9-4e71-aa4e-1999518e78b0
-    type: content
-  - name: My History
-    id: 28b8b055-5912-45ea-b192-f2cc051bbcef
-    type: content
-title: DianaBo Art
-content: []
-description: An artist's essay...
+analytics: {}
 purpose:
   - type: contact
     url: 'mailto:art@dianabo.com'
@@ -49,3 +8,61 @@ purpose:
     url: 'tel:0041764038323'
     label: Contact me by phone
 github: true
+description: An artist's essay...
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+navigation:
+  - id: fbc9fa22-a798-48ff-a8e9-bdfeed8d0948
+    name: Prey Collection
+    type: content
+  - id: 5d83fad3-79e2-460a-9d03-249a3f8609cd
+    name: Next event...
+    type: content
+  - id: 79acb7fa-450d-4b8e-83c4-d5400554522a
+    name: Tiny Collection
+    type: content
+  - id: 6a215af1-476b-4703-b030-8638dc4eebbd
+    name: Pink Collection
+    type: content
+  - id: 054f8992-fff9-4e71-aa4e-1999518e78b0
+    name: Past Exhibitions
+    type: content
+  - id: 28b8b055-5912-45ea-b192-f2cc051bbcef
+    name: My History
+    type: content
+layout_spectrum: 0.2594592730113591
+color:
+  lightness: 1
+  brandColors:
+    - '#3A87BF'
+    - '#1B1C21'
+    - '#6B420E'
+    - '#B4B3AF'
+    - '#69B0DA'
+  saturation: 0.11887280057350376
+  brandStrength: 0.7116848036009671
+  rhythmicContrast: 0.5916481977942778
+content_rating:
+  adult: false
+typography_spectrum: 0.6166005502790581
+opengraph: {}
+title: DianaBo Art
