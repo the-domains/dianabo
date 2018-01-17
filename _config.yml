@@ -35,9 +35,6 @@ navigation:
   - name: Pink Collection
     id: 6a215af1-476b-4703-b030-8638dc4eebbd
     type: content
-  - name: My History
-    id: 28b8b055-5912-45ea-b192-f2cc051bbcef
-    type: content
 collections:
   - index:
       path: /
