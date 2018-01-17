@@ -38,6 +38,9 @@ navigation:
   - name: Tiny Collection 2018
     id: 79acb7fa-450d-4b8e-83c4-d5400554522a
     type: content
+  - name: Past Events
+    id: 054f8992-fff9-4e71-aa4e-1999518e78b0
+    type: content
 collections:
   - index:
       path: /
