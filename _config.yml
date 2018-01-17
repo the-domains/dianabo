@@ -35,6 +35,9 @@ navigation:
   - name: Pink Collection 2017/2018
     id: 6a215af1-476b-4703-b030-8638dc4eebbd
     type: content
+  - name: Tiny Collection 2018
+    id: 79acb7fa-450d-4b8e-83c4-d5400554522a
+    type: content
 collections:
   - index:
       path: /
