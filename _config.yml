@@ -25,6 +25,10 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
+navigation:
+  - name: Next event...
+    id: 5d83fad3-79e2-460a-9d03-249a3f8609cd
+    type: content
 collections:
   - index:
       path: /
