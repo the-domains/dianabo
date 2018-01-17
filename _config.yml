@@ -34,9 +34,6 @@ navigation:
   - name: Prey Collection
     id: fbc9fa22-a798-48ff-a8e9-bdfeed8d0948
     type: content
-  - name: Next event...
-    id: 5d83fad3-79e2-460a-9d03-249a3f8609cd
-    type: content
   - name: Tiny Collection
     id: 79acb7fa-450d-4b8e-83c4-d5400554522a
     type: content
