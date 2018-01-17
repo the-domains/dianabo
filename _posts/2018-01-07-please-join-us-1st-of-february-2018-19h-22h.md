@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Please Join Us 8th of March 2018 19h - 22h
-dateModified: '2018-01-17T21:17:56.254Z'
-datePublished: '2018-01-17T21:17:56.883Z'
+dateModified: '2018-01-17T21:19:38.181Z'
+datePublished: '2018-01-17T21:19:38.939Z'
 title: ''
 author: []
 publisher: {}
