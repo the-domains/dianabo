@@ -41,6 +41,9 @@ navigation:
   - name: Past Events
     id: 054f8992-fff9-4e71-aa4e-1999518e78b0
     type: content
+  - name: My Story
+    id: 28b8b055-5912-45ea-b192-f2cc051bbcef
+    type: content
 collections:
   - index:
       path: /
