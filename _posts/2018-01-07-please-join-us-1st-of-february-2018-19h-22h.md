@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Please Join Us 8th of March 2018 19h - 22h
-dateModified: '2018-01-17T21:09:24.160Z'
-datePublished: '2018-01-17T21:10:08.312Z'
+dateModified: '2018-01-17T21:11:57.538Z'
+datePublished: '2018-01-17T21:11:58.133Z'
 title: ''
 author: []
 publisher: {}
@@ -10,7 +10,7 @@ via: {}
 sourcePath: _posts/2018-01-07-please-join-us-1st-of-february-2018-19h-22h.md
 hasPage: true
 starred: false
-datePublishedOriginal: '2018-01-17T21:10:08.312Z'
+datePublishedOriginal: '2018-01-07T10:08:12.066Z'
 url: please-join-us-8th-of-march-2018-19h-22h/index.html
 _type: Article
 
