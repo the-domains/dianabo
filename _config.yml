@@ -1,14 +1,23 @@
-name: DianaBo
-analytics: {}
-purpose:
-  - type: contact
-    url: 'mailto:art@dianabo.com'
-    label: Contact me by mail
-  - type: contact
-    url: 'tel:0041764038323'
-    label: Contact me by phone
+typography_spectrum: 0.6166005502790581
+content_rating:
+  adult: false
+color:
+  lightness: 1
+  brandColors:
+    - '#3A87BF'
+    - '#1B1C21'
+    - '#6B420E'
+    - '#B4B3AF'
+    - '#69B0DA'
+  saturation: 0.11887280057350376
+  brandStrength: 0.7116848036009671
+  rhythmicContrast: 0.5916481977942778
 github: true
-description: 'Exhibition: 8th of March 2018'
+opengraph: {}
+layout_spectrum: 0.2594592730113591
+analytics: {}
+author: {}
+name: DianaBo
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -16,7 +25,22 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-author: {}
+navigation:
+  - name: Prey Collection
+    id: fbc9fa22-a798-48ff-a8e9-bdfeed8d0948
+    type: content
+  - name: Tiny Collection
+    id: 79acb7fa-450d-4b8e-83c4-d5400554522a
+    type: content
+  - name: Pink Collection
+    id: 6a215af1-476b-4703-b030-8638dc4eebbd
+    type: content
+  - name: Next event...
+    id: 054f8992-fff9-4e71-aa4e-1999518e78b0
+    type: content
+  - name: My History
+    id: 28b8b055-5912-45ea-b192-f2cc051bbcef
+    type: content
 collections:
   - index:
       path: /
@@ -29,37 +53,13 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-content: []
-navigation:
-  - name: Prey Collection
-    id: fbc9fa22-a798-48ff-a8e9-bdfeed8d0948
-    type: content
-  - name: Tiny Collection
-    id: 79acb7fa-450d-4b8e-83c4-d5400554522a
-    type: content
-  - name: Pink Collection
-    id: 6a215af1-476b-4703-b030-8638dc4eebbd
-    type: content
-  - name: Past Exhibitions
-    id: 054f8992-fff9-4e71-aa4e-1999518e78b0
-    type: content
-  - name: My History
-    id: 28b8b055-5912-45ea-b192-f2cc051bbcef
-    type: content
-layout_spectrum: 0.2594592730113591
-color:
-  lightness: 1
-  brandColors:
-    - '#3A87BF'
-    - '#1B1C21'
-    - '#6B420E'
-    - '#B4B3AF'
-    - '#69B0DA'
-  saturation: 0.11887280057350376
-  brandStrength: 0.7116848036009671
-  rhythmicContrast: 0.5916481977942778
-content_rating:
-  adult: false
-typography_spectrum: 0.6166005502790581
-opengraph: {}
 title: DianaBo Art
+content: []
+description: 'Exhibition: 8th of March 2018'
+purpose:
+  - type: contact
+    url: 'mailto:art@dianabo.com'
+    label: Contact me by mail
+  - type: contact
+    url: 'tel:0041764038323'
+    label: Contact me by phone
