@@ -25,10 +25,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: Pink Collection
-    id: 6a215af1-476b-4703-b030-8638dc4eebbd
-    type: content
 collections:
   - index:
       path: /
