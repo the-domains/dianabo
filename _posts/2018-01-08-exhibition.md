@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Exhibition
-dateModified: '2018-01-17T21:13:53.357Z'
-datePublished: '2018-01-17T21:13:54.293Z'
+dateModified: '2018-01-17T21:22:07.788Z'
+datePublished: '2018-01-17T21:22:08.391Z'
 title: ''
 author: []
 publisher: {}
