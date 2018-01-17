@@ -38,6 +38,9 @@ navigation:
   - name: My History
     id: 28b8b055-5912-45ea-b192-f2cc051bbcef
     type: content
+  - name: Next event...
+    id: 5d83fad3-79e2-460a-9d03-249a3f8609cd
+    type: content
 collections:
   - index:
       path: /
