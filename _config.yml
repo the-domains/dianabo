@@ -31,23 +31,23 @@ collections:
       number: 10
 content: []
 navigation:
-  - id: fbc9fa22-a798-48ff-a8e9-bdfeed8d0948
-    name: Prey Collection
+  - name: Prey Collection
+    id: fbc9fa22-a798-48ff-a8e9-bdfeed8d0948
     type: content
-  - id: 5d83fad3-79e2-460a-9d03-249a3f8609cd
-    name: Next event...
+  - name: Next event...
+    id: 5d83fad3-79e2-460a-9d03-249a3f8609cd
     type: content
-  - id: 79acb7fa-450d-4b8e-83c4-d5400554522a
-    name: Tiny Collection
+  - name: Tiny Collection
+    id: 79acb7fa-450d-4b8e-83c4-d5400554522a
     type: content
-  - id: 6a215af1-476b-4703-b030-8638dc4eebbd
-    name: Pink Collection
+  - name: Pink Collection
+    id: 6a215af1-476b-4703-b030-8638dc4eebbd
     type: content
-  - id: 054f8992-fff9-4e71-aa4e-1999518e78b0
-    name: Past Exhibitions
+  - name: Past Exhibitions
+    id: 054f8992-fff9-4e71-aa4e-1999518e78b0
     type: content
-  - id: 28b8b055-5912-45ea-b192-f2cc051bbcef
-    name: My History
+  - name: My History
+    id: 28b8b055-5912-45ea-b192-f2cc051bbcef
     type: content
 layout_spectrum: 0.2594592730113591
 color:
