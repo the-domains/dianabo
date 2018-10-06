@@ -15,7 +15,8 @@ color:
 github: true
 opengraph: {}
 layout_spectrum: 0.2594592730113591
-analytics: {}
+analytics:
+  google: UA-127100232-1
 author: {}
 name: DianaBo
 colors:
