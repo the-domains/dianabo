@@ -12,7 +12,6 @@ color:
   saturation: 0.11887280057350376
   brandStrength: 0.7116848036009671
   rhythmicContrast: 0.5916481977942778
-github: true
 opengraph: {}
 layout_spectrum: 0.2594592730113591
 analytics:
@@ -68,3 +67,4 @@ purpose:
     url: 'tel:0041764038323'
     label: Contact me by phone
 url: 'https://dianabo.art/'
+github: true
