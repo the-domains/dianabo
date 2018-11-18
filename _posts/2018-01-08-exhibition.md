@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Exhibition
-dateModified: '2018-01-17T21:22:07.788Z'
-datePublished: '2018-01-17T21:22:08.391Z'
+dateModified: '2018-11-18T19:55:21.612Z'
+datePublished: '2018-11-18T19:55:22.181Z'
 title: ''
 author: []
 publisher: {}
@@ -18,4 +18,6 @@ _type: Article
 **Exhibition**
 
 * 2018 - Chapelle - Espace Vernissage / Nyon - Switzerland
-* ...
+* 2018 - Geneva / Seror
+* 2018 - Nyon / Casa Jeux
+* 2018 - Nyon / Journée des Portes Ouvertes
